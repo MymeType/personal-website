@@ -1,5 +1,16 @@
 # MymeType's Personal Website
 
+## Usage
+
+### Dependencies
+
+- A graphical web browser (Reccommended: ungoogled-chromium >= 133.0.6943.98)
+- A working internet connection
+
+### Viewing the website online
+
+To view the website online, simply go to `https://mymetype.neocities.org` on your web browser.
+
 ## Licensing
 
 ### Original content
