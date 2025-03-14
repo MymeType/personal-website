@@ -40,3 +40,19 @@ small.caption {
 .warning {
   color: #f9e2af;
 }
+
+::-moz-selection {
+  background: #9399b2;
+  opacity: 0.2;
+}
+
+::selection {
+  background: #9399b2;
+  opacity: 0.2;
+}
+
+textarea {
+  background-color: #313244;
+  color: #cdd6f4;
+  border: 0
+}
