@@ -36,3 +36,7 @@ a:hover, a:active {
 small.caption {
   color: #a6adc8;
 }
+
+.warning {
+  color: #f9e2af;
+}
