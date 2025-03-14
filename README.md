@@ -14,6 +14,7 @@ To view the website online, simply go to `https://mymetype.neocities.org` on you
 ## Licensing
 
 ### Source code
+
 The source code, such as HTML and CSS files, is licensed under the terms of the GNU Affero General Public License v3.0 or later, which you can view a copy of in the `licenses` folder, and a link to this repository will always be provided in the footer of every page.
 
 ### Original content
