@@ -22,8 +22,8 @@ a link to this repository will always be provided in the footer of every page.
 ### Original content
 
 Most of the content created by me used on this website, such as text and images,
-**except the source code**, is distributed under the terms of the CC0 1.0
-license unless specified otherwise, which you can view a copy of in the
+**except the source code**, is dedicated to the public domain under CC0 1.0
+unless specified otherwise, which you can view a copy of in the
 `licenses` folder of this repository. A copyright notice and link to this
 license will always be available on the footer of every page.
 
