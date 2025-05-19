@@ -1,0 +1,12 @@
+src/gallery.html
+src/index.html
+src/my-works.html
+src/not_found.html
+src/socials.html
+src/style.css
+src/changelog.html
+src/misc/blog-template-page.html
+src/misc/template-page.html
+src/blog/review-hurry-up-tomorrow.html
+src/blog/first-blog-entry.html
+src/blog/index.html
