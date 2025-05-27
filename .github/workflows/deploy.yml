@@ -1,0 +1,22 @@
+name: Deploy to Neocities
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v3.0.2
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: src
+          cleanup: true
+          neocities_supporter: false
+          preview_before_deploy: true

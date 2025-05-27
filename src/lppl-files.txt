@@ -10,3 +10,4 @@ src/misc/template-page.html
 src/blog/review-hurry-up-tomorrow.html
 src/blog/first-blog-entry.html
 src/blog/index.html
+.github/workflows/deploy.yml
