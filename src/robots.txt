@@ -1,14 +1,4 @@
-# Copyright (c) 2024 ai.robots.txt
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-# The above copyright notice and this permission notice shall be included in all
-# copies or substantial portions of the Software.
+# robots.txt (C) 2024 ai.robots.txt originally licensed under MIT
 
 User-agent: AI2Bot
 User-agent: Ai2Bot-Dolma
@@ -21,8 +11,9 @@ User-agent: Brightbot 1.0
 User-agent: Bytespider
 User-agent: CCBot
 User-agent: ChatGPT-User
-User-agent: Claude-Web
 User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
 User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
@@ -50,6 +41,7 @@ User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User/1.0
 User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: omgili
@@ -68,5 +60,6 @@ User-agent: TikTokSpider
 User-agent: Timpibot
 User-agent: VelenPublicWebCrawler
 User-agent: Webzio-Extended
+User-agent: wpbot
 User-agent: YouBot
 Disallow: /
