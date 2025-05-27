@@ -4,7 +4,7 @@
 
 ### Dependencies
 
-- A graphical web browser (tested on Firefox Developer Edition >= 139.0b9)
+- A graphical web browser (tested on [Thorium](https://thorium.rocks/) >= 130.0.6723.174)
 - A working internet connection
 
 ### Viewing the website online
