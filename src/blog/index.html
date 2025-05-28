@@ -33,12 +33,20 @@
   </head>
 
   <body>
-    <img
-      src="../images/axel-mono-head.png"
-      onmouseover="this.src='../images/axel-teal-head.png';"
-      onmouseout="this.src='../images/axel-mono-head.png';"
-      onclick="this.src='../images/axel-teal-head-happy.png';"
-    />
+    <button
+      type="button"
+      style="background: none; border: none; padding: 0; cursor: pointer"
+      onmouseover="axelHead.src='../images/axel-teal-head.png';"
+      onmouseout="axelHead.src='../images/axel-mono-head.png';"
+      onclick="axelHead.src='../images/axel-teal-head-happy.png';"
+      aria-label="Change Axel head image"
+    >
+      <img
+        id="axelHead"
+        src="../images/axel-mono-head.png"
+        alt="Axel headshot"
+      />
+    </button>
 
     <h1>MymeType's Blog</h1>
 

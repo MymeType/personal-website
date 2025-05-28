@@ -1,4 +1,4 @@
-# robots.txt (C) 2024 ai.robots.txt originally licensed under MIT
+# robots.txt (C) 2025 ai.robots.txt originally licensed under MIT
 
 User-agent: AI2Bot
 User-agent: Ai2Bot-Dolma

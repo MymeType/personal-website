@@ -40,12 +40,16 @@
   </head>
 
   <body>
-    <img
-      src="images/axel-mono-head.png"
-      onmouseover="this.src='images/axel-teal-head.png';"
-      onmouseout="this.src='images/axel-mono-head.png';"
-      onclick="this.src='images/axel-teal-head-happy.png';"
-    />
+    <button
+      type="button"
+      style="background: none; border: none; padding: 0; cursor: pointer"
+      onmouseover="axelHead.src='images/axel-teal-head.png';"
+      onmouseout="axelHead.src='images/axel-mono-head.png';"
+      onclick="axelHead.src='images/axel-teal-head-happy.png';"
+      aria-label="Change Axel head image"
+    >
+      <img id="axelHead" src="images/axel-mono-head.png" alt="Axel headshot" />
+    </button>
 
     <h1>MymeType - マイムタイプ - /maɪmtaɪp/</h1>
 
@@ -93,7 +97,7 @@
 
     <p>
       <a href="https://spax.zone/">
-        <img src="https://spax.zone/buttons/spaxdotzone.gif" />
+        <img src="https://spax.zone/buttons/spaxdotzone.gif" alt="spax.zone" />
       </a>
       <a href="https://mishamallow.neocities.org" target="_blank">
         <img
@@ -104,15 +108,19 @@
     </p>
 
     <p>
-      <img
-        src="images/mymetype-button.png"
+      <button
+        type="button"
+        style="background: none; border: none; padding: 0; cursor: pointer"
         onclick="alert('you\'re already on this website you DUMBASS!!! /silly');"
-      />
+        onkeypress="alert('you\'re already on this website you DUMBASS!!! /silly');"
+      >
+        <img src="images/mymetype-button.png" alt="mymetype.gay" />
+      </button>
       <br />
       <br />
       <textarea readonly rows="3" cols="71">
 <a href="https://mymetype.neocities.org">
-  <img src="https://mymetype.neocities.org/images/mymetype-button.png">
+  <img src="https://mymetype.neocities.org/images/mymetype-button.png" alt="mymetype.gay">
 </a>
       </textarea>
     </p>
