@@ -72,7 +72,7 @@ This website was originally created on the 31st of December, 2024, and didn't ha
 
 ### Dependencies
 
-- A graphical web browser (tested on [Thorium](https://thorium.rocks/) >= 130.0.6723.174)
+- A graphical web browser
 - A working internet connection
 
 ### Viewing the website online
