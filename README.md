@@ -1,3 +1,6 @@
+# ARCHIVED
+Development of this website has moved to Nekoweb and this repository will no longer recieve any updates. Please go to [the new repository](https://github.com/MymeType/mymetype.gay)!
+
 # MymeType's Personal Website
 
 ## History
